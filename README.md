@@ -7,8 +7,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Argentina-%F0%9F%87%A6%F0%9F%87%B7-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Freelancer-Activo-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Estudiante-Activo-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/IA_+_Automatización-En_construcción-blueviolet?style=flat-square" />
 </div>
+
 
 ---
 
