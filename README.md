@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Gerson+%F0%9F%91%8B;Construyo+soluciones+con+IA;Automatizaciones+%2B+Python;Siempre+aprendiendo..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Gerson+%F0%9F%91%8B;Soluciones+tecnol%C3%B3gicas+con+IA;Automatizaci%C3%B3n+de+procesos;Freelance+%2B+Estudiante" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Argentina-%F0%9F%87%A6%F0%9F%87%B7-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Estudiante-Activo-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend_+_IA-En_construcción-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Freelancer-Activo-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/IA_+_Automatización-En_construcción-blueviolet?style=flat-square" />
 </div>
 
 ---
@@ -15,11 +15,11 @@
 ## 🧠 Sobre mí
 
 - 📍 Soy de **Argentina**
-- 🎓 Estudiante activo + trabajando en paralelo
-- 🤖 Me apasionan la **IA aplicada** y las **automatizaciones**
+- 🎓 Cursando el último año de **Técnico Superior en Informática Aplicada**
+- 💼 Trabajo como **freelance** ayudando a empresas a mejorar y automatizar sus procesos
+- 🤖 Me especializo en **soluciones tecnológicas con IA** y **automatización**
 - 🐍 Mi lenguaje principal es **Python**
-- 🌱 Aprendiendo: `LLMs` · `Agentes de IA` · `FastAPI` · `LangChain`
-- 🎯 Meta: construir soluciones reales con inteligencia artificial
+- 🎯 Meta: brindar soluciones **eficientes y eficaces** a empresas
 
 ---
 
@@ -35,8 +35,8 @@
 **IA & Automatización**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 **Herramientas**
 
@@ -48,20 +48,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GersonVala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonVala&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🚀 En qué estoy trabajando
 
-- 🤖 Explorando el mundo de los **LLMs y agentes de IA**
-- ⚡ Construyendo **automatizaciones** que resuelven problemas reales
-- 📚 Estudiando mientras aplico lo que aprendo en proyectos propios
+- ⚙️ Automatizando procesos en una empresa y migrando sus sistemas a **ERP Odoo**
+- 📡 Estudiando **redes** para ampliar mis conocimientos en infraestructura
+- 🎓 Finalizando mi carrera de **Técnico Superior en Informática Aplicada**
 
 ---
 
