@@ -53,6 +53,7 @@
 - ⚙️ Automatizando procesos en una empresa y migrando sus sistemas a **ERP Odoo**
 - 📡 Estudiando **redes** para ampliar mis conocimientos en infraestructura
 - 🎓 Finalizando mi carrera de **Técnico Superior en Informática Aplicada**
+- 📚 Profundizando en herramientas como **Python**, **Node.js** y más para seguir creciendo como desarrollador
 
 ---
 
