@@ -59,6 +59,19 @@
 - 📚 Profundizando en herramientas como **Python**, **Node.js** y más para seguir creciendo como desarrollador
 
 ---
+## 📬 Contacto
+
+<div align="center">
+  <a href="mailto:gersonvalashek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gersonvalashek">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GersonVala&color=blueviolet&style=flat-square&label=Visitas+al+perfil" />
