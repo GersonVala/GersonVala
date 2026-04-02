@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Gerson+%F0%9F%91%8B;Construyo+soluciones+con+IA;Automatizaciones+%2B+Python;Siempre+aprendiendo..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Gerson+%F0%9F%91%8B;Construyo+soluciones+con+IA;Automatizaciones+%2B+Python;Siempre+aprendiendo..." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,15 +14,12 @@
 
 ## 🧠 Sobre mí
 
-```python
-gerson = {
-    "ubicacion"  : "Argentina 🇦🇷",
-    "rol"        : "Estudiante + Desarrollador",
-    "enfoque"    : ["IA aplicada", "Automatizaciones", "Python"],
-    "aprendiendo": ["LLMs", "Agentes de IA", "FastAPI", "LangChain"],
-    "objetivo"   : "Construir soluciones reales con inteligencia artificial"
-}
-` ` `
+- 📍 Soy de **Argentina**
+- 🎓 Estudiante activo + trabajando en paralelo
+- 🤖 Me apasionan la **IA aplicada** y las **automatizaciones**
+- 🐍 Mi lenguaje principal es **Python**
+- 🌱 Aprendiendo: `LLMs` · `Agentes de IA` · `FastAPI` · `LangChain`
+- 🎯 Meta: construir soluciones reales con inteligencia artificial
 
 ---
 
@@ -67,16 +64,6 @@ gerson = {
 - 📚 Estudiando mientras aplico lo que aprendo en proyectos propios
 
 ---
-
-## 📬 Contacto
-
-<div align="center">
-  <a href="https://github.com/GersonVala">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GersonVala&color=blueviolet&style=flat-square&label=Visitas+al+perfil" />
