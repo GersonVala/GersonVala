@@ -19,10 +19,9 @@
 
 - 📍 Soy de **Argentina**
 - 🎓 Cursando el último año de **Técnico Superior en Informática Aplicada**
-- 💼 Trabajo como **freelance** ayudando a empresas a mejorar y automatizar sus procesos
-- 🤖 Me especializo en **soluciones tecnológicas con IA** y **automatización**
+- 🤖 Me estoy especializando en **soluciones tecnológicas** y **automatización**
 - 🐍 Mi lenguaje principal es **Python**
-- 🎯 Meta: brindar soluciones **eficientes y eficaces** a empresas
+- 🎯 Mi objetivo es brindar soluciones **eficientes y eficaces** a empresas
 
 ---
 
