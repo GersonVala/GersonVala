@@ -57,10 +57,10 @@
 
 ## 🚀 En qué estoy trabajando
 
-- 🏪 Colaborando en la migración a **ERP Odoo** 
-- 🐧 Primeros pasos en **Linux**,**Docker** y nociones de **redes** para meterme más en infraestructura
+- 🏪 Colaborando en la migración a **ERP Odoo**
+- 🐧 Primeros pasos en **Linux**, **Docker** y nociones de **redes** para meterme más en infraestructura
+- 🧩 Adentrándome en el paradigma de **programación funcional**
 - 🎓 Finalizando la carrera de **Técnico Superior en Informática Aplicada**
-
 ---
 
 ## 📌 Proyecto destacado
