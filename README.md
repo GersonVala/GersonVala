@@ -63,7 +63,7 @@
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyecto destacado
 
 - 💳 **[Recepción de pagos por voz — API Mercado Pago](https://github.com/GersonVala/RECEPCION-DE-PAGOS-POR-VOZ-API-MERCADOPAGO)** — Servicio en Python que detecta pagos en tiempo real vía Webhooks (con Polling de respaldo) y los anuncia por voz en el punto de venta. Proyecto freelance para una ferretería.
 
