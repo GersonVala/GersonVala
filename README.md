@@ -18,7 +18,7 @@
 - 📍 Soy de **Argentina**, ubicado en **CABA**
 - 🎓 Cursando el último tramo de **Técnico Superior en Informática Aplicada** (INSPT – UTN)
 - 🐍 Trabajo principalmente con **Python**, en integraciones de APIs, automatización y backend
-- 🌐 Avanzando hacia **full stack** con **JavaScript** (HTML, CSS, Node.js, ReactJS)
+- 🌐 Avanzando hacia **full stack** con **JavaScript**, **HTML** y **CSS**
 - ☕ Cuento con base sólida en **Java y Spring** desde mi formación académica (POO y arquitectura en capas)
 - 🎯 Me interesa entender por qué funcionan las cosas, no solo que funcionen
 
@@ -38,9 +38,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Bases de datos y herramientas**
 
@@ -65,7 +62,7 @@
 
 ## 🚀 En qué estoy trabajando
 
-- 🌐 Avanzando hacia **full stack** con **JavaScript**, **Node.js** y **ReactJS**
+- 🌐 Avanzando hacia **full stack** con **JavaScript**, **HTML** y **CSS**
 - 🐍 Profundizando en **Python** para backend, APIs y automatización
 - 🐧 Primeros pasos en **Linux** y **Docker** para infraestructura
 - 🎓 Finalizando la carrera de **Técnico Superior en Informática Aplicada**
